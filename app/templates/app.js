@@ -1,4 +1,4 @@
-angular.module('myApp', ['ui', 'ui.util','ui.router', 'ui.bootstrap'])
+angular.module('myApp', ['ui', 'ui.utils','ui.router', 'ui.bootstrap'])
 
 //Get to coding
 
