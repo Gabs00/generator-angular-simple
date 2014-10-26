@@ -17,10 +17,12 @@ var AngularSimpleGenerator = yeoman.generators.Base.extend({
       'KI-ASS: Keep it Angular Simple Stupid'
     ));
 
+    //This stuff doesn't need to be here
+    //But I like to keep them around for reference.
     var prompts = [{
       type: 'confirm',
       name: 'someOption',
-      message: 'Would you like to enable this option?',
+      message: 'Want some pie?',
       default: true
     }];
 
