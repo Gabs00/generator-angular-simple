@@ -2,6 +2,26 @@
 
 > [Yeoman](http://yeoman.io) generator
 
+## Rundown
+
+> This is an angular generator that accomplishes a few things I've found myself doing repeatedly when starting an angular project. There isn't too much going on, just a simple express server (with nodemon), simple directory structure, starter app.js file in client/, and a few cool libs I discovered that I want to try and have fun with.
+
+> Please let me know if you guys have any suggestions, find in bugs.
+
+## QuickStart
+
+* first read the default getting started instructions (awesome to have been included) then
+
+    npm start
+
+  To get the server up and running, navigate to localhost:9000 to access the page (nothing there).
+
+## To Do
+1. Test cases for this generator
+2. Add Gulp or Grunt (leaning toward Gulp)
+3. Add Karma
+4. ???
+5. Profit
 
 ## Getting Started
 
