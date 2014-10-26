@@ -10,9 +10,9 @@
 
 ## QuickStart
 
-* first read the default getting started instructions (awesome to have been included) then
+  first read the default getting started instructions (awesome to have been included) then
 
-    npm start
+    `npm start`
 
   To get the server up and running, navigate to localhost:9000 to access the page (nothing there).
 
