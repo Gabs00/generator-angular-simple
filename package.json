@@ -1,0 +1,36 @@
+{
+  "name": "generator-angular-simple",
+  "version": "0.0.0",
+  "description": "Generator for a very simple angular setup with angular, ui-router, angular-bootstrap, bootstrap, and express server",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "Gabs00/generator-angular-simple",
+  "author": {
+    "name": "Gabar Ewen",
+    "email": "",
+    "url": "https://github.com/Gabs00"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.0",
+    "chalk": "^0.5.0",
+    "yosay": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}

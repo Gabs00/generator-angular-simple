@@ -1,0 +1,12 @@
+{
+  "name": "package",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.10.0",
+    "nodemon": "^1.2.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "postinstall": "bower install"
+  }
+}
