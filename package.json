@@ -1,6 +1,6 @@
 {
   "name": "generator-angular-simple",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generator for a very simple angular setup with angular, ui-router, angular-bootstrap, bootstrap, and express server",
   "license": "MIT",
   "main": "app/index.js",
